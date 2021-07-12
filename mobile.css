@@ -1,0 +1,511 @@
+@media all and (min-width: 1px) and (max-width: 311px) {
+.container {
+height: 100%;
+width: 100%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-wrap: wrap;
+margin: auto;
+/* margin-top: 10%; */
+}
+.container .card {
+position: relative;
+background: #1d1d1d4f;
+width: 90%;
+height: 100vh;
+margin: 1%;
+box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+overflow: hidden;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+transition: 0.5s;
+}
+.infoformation1,
+.infoformation3 {
+font-size: 0.8rem;
+}
+.infoformation2,
+.infoformation4 {
+font-size: 0.8rem;
+}
+.card .content a {
+font-size: 1rem;
+}
+.card .content h2 {
+right: 30px;
+font-size: 1.5em;
+font-weight: 600;
+
+line-height: 1.2em;
+}
+.card .content h3 {
+
+  font-size: 1.2em;
+  }
+.reseaux {
+margin: 0;
+}
+.containerparcours {
+display: flex;
+flex-direction: column;
+/* height: 100%; */
+width: 100%;
+margin: 0%;
+/* margin-top: 600%; */
+}
+h2{ font-size: 1.5rem;}
+.contentxp > h3 {
+font-size: 1.5rem;
+}
+
+} 
+@media all and (min-width: 312px) and (max-width: 400px) {
+.container {
+height: 80%;
+width: 100%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-wrap: wrap;
+margin: auto;
+margin-top: 20%;
+}
+.container .card {
+position: relative;
+background: #1d1d1d4f;
+width: 90%;
+height: 100vh;
+margin: 1%;
+box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+overflow: hidden;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+transition: 0.5s;
+}
+.infoformation1,
+.infoformation3 {
+font-size: 0.8rem;
+}
+.infoformation2,
+.infoformation4 {
+font-size: 0.8rem;
+}
+.card .content a {
+font-size: 1.2rem;
+}
+.card .content h2 {
+right: 30px;
+font-size: 1.8em;
+font-weight: 600;
+
+line-height: 1.2em;
+}
+.reseaux {
+margin: 0;
+}
+.containerparcours {
+display: flex;
+flex-direction: column;
+/* height: 100%; */
+width: 100%;
+margin: 0%;
+/* margin-top: 420%; */
+}
+h2{ font-size: 2rem;}
+} 
+@media all and (min-width: 400px) and (max-width: 576px) {
+
+.container {
+height: 100%;
+width: 100%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-wrap: wrap;
+margin: auto;
+margin-top: 20%;
+}
+.container .card {
+position: relative;
+background: #1d1d1d4f;
+width: 90%;
+height: 100vh;
+margin: 1%;
+box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+overflow: hidden;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+transition: 0.5s;
+}
+.infoformation1,
+.infoformation3 {
+font-size: 0.8rem;
+}
+.infoformation2,
+.infoformation4 {
+font-size: 0.8rem;
+}
+.card .content a {
+font-size: 1.2rem;
+}
+.card .content h2 {
+right: 30px;
+font-size: 2.5em;
+font-weight: 600;
+
+line-height: 1.2em;
+}
+.reseaux {
+margin: 0;
+}
+.containerparcours {
+display: flex;
+flex-direction: column;
+/* height: 100%; */
+width: 100%;
+margin: 0%;
+/* margin-top: 350%; */
+}
+h2{ font-size: 2rem;}
+} 
+
+@media all and (min-width: 577px) and (max-width: 698px) {
+/* .containerparcours {
+margin-top: 250%;
+} */
+.container {
+height: 100%;
+width: 100%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-wrap: wrap;
+margin: auto;
+margin-top: 20%;
+}
+.container .card {
+position: relative;
+background: #1d1d1d4f;
+width: 90%;
+height: 100vh;
+margin: 1%;
+box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+overflow: hidden;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+transition: 0.5s;
+}
+.infoformation1,
+.infoformation3 {
+font-size: 1rem;
+}
+.infoformation2,
+.infoformation4 {
+font-size: 1rem;
+}
+.card .content a {
+font-size: 1.2rem;
+}
+.card .content h2 {
+right: 30px;
+font-size: 4em;
+font-weight: 600;
+
+line-height: 1.2em;
+}
+.reseaux {
+margin: 0;
+}
+.containerparcours {
+display: flex;
+flex-direction: column;
+/* height: 100%; */
+width: 100%;
+margin: 0%;
+/* margin-top: 300%; */
+}
+} 
+
+@media all and (min-width: 699px) and (max-width: 842px) {
+.container {
+height: 100%;
+width: 100%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-wrap: wrap;
+margin: auto;
+margin-top: 20%;
+}
+.container .card {
+position: relative;
+background: #1d1d1d4f;
+width: 90%;
+height: 100vh;
+margin: 1%;
+box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+overflow: hidden;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+transition: 0.5s;
+}
+.infoformation1,
+.infoformation3 {
+font-size: 1rem;
+}
+.infoformation2,
+.infoformation4 {
+font-size: 1rem;
+}
+.card .content a {
+font-size: 1.5rem;
+}
+.card .content h2 {
+right: 30px;
+font-size: 3em;
+font-weight: 600;
+
+line-height: 1em;
+}
+.reseaux {
+margin: 0;
+}
+.containerparcours {
+display: flex;
+flex-direction: column;
+/* height: 100%; */
+margin: 5%;
+/* margin-top: 275%; */
+}
+} 
+@media all and (min-width: 842px) and (max-width: 1023px) {
+.container {
+height: 100%;
+width: 100%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-wrap: wrap;
+margin: auto;
+/* margin-top: 20%; */
+}
+.container .card {
+position: relative;
+background: #1d1d1d4f;
+width: 90%;
+height: 100vh;
+margin: 1%;
+box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+overflow: hidden;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+transition: 0.5s;
+}
+.infoformation1,
+.infoformation3 {
+font-size: 1rem;
+}
+.infoformation2,
+.infoformation4 {
+font-size: 1rem;
+}
+.card .content a {
+font-size: 1.2rem;
+}
+.card .content h2 {
+right: 30px;
+font-size: 3rem;
+font-weight: 600;
+
+line-height: 0.8em;
+}
+.reseaux {
+margin: 0;
+}
+.containerparcours {
+display: flex;
+flex-direction: column;
+/* height: 100%; */
+margin: 5%;
+/* margin-top: 225%; */
+}
+} 
+
+
+@media all and (min-width: 1024px) and (max-width: 1200px) {
+.container {
+/* height: 100%; */
+width: 100%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-wrap: wrap;
+
+margin: auto;
+margin-top: 20%;
+}
+.container .card {
+position: relative;
+background: #1d1d1d4f;
+width: 90%;
+height: 100vh;
+margin: 1%;
+box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+overflow: hidden;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+transition: 0.5s;
+}
+.infoformation1,
+.infoformation3 {
+font-size: 1.5rem;
+}
+.infoformation2,
+.infoformation4 {
+font-size: 1.5rem;
+}
+.card .content a {
+font-size: 1.2rem;
+}
+.card .content h2 {
+right: 30px;
+font-size: 3em;
+font-weight: 600;
+
+line-height: 0.8em;
+}
+.reseaux {
+margin: 0;
+}
+.containerparcours {
+display: flex;
+flex-direction: column;
+/* height: 100%; */
+
+margin: 5%;
+/* margin-top: 390%; */
+}
+} 
+/* Media pour cette putain de div container parcours
+ qui rend fou une fois les card passé en column  */
+@media all and (min-width: 1200px) {
+.containerparcours {
+margin-top: 10%;
+}}
+@media all and (min-width: 1150px) and (max-width: 1200px) {
+.containerparcours {
+  margin-top: 230vh;
+}
+}
+@media all and (min-width: 1100px) and (max-width: 1150px) {
+.containerparcours {
+  margin-top: 230vh;
+}
+}
+@media all and (min-width: 1050px) and (max-width: 1100px) {
+.containerparcours {
+  margin-top: 230vh;
+}
+}
+@media all and (min-width: 1000px) and (max-width: 1050px) {
+.containerparcours {
+  margin-top: 230vh;
+}
+}
+@media all and (min-width: 950px) and (max-width: 1000px) {
+.containerparcours {
+  margin-top: 210vh;
+}
+}
+@media all and (min-width: 900px) and (max-width: 950px) {
+.containerparcours {
+  margin-top: 210vh;
+}}
+@media all and (min-width: 850px) and (max-width: 900px) {
+.containerparcours {
+  margin-top: 210vh;
+}}
+@media all and (min-width: 800px) and (max-width: 850px) {
+.containerparcours {
+  margin-top: 210vh;
+}}
+@media all and (min-width: 750px) and (max-width: 850px) {
+.containerparcours {
+  margin-top: 210vh;
+}}
+@media all and (min-width: 700px) and (max-width: 750px) {
+.containerparcours {
+  margin-top: 210vh;
+}}
+@media all and (min-width: 650px) and (max-width: 700px) {
+.containerparcours {
+  margin-top: 210vh;
+}
+}
+@media all and (min-width: 600px) and (max-width: 650px) {
+.containerparcours {
+  margin-top: 210vh;
+}}
+@media all and (min-width: 550px) and (max-width: 600px) {
+.containerparcours {
+  margin-top: 210vh;
+}}
+@media all and (min-width: 500px) and (max-width: 550px) {
+.containerparcours {
+  margin-top: 210vh;
+}}
+@media all and (min-width: 450px) and (max-width: 500px) {
+.containerparcours {
+  margin-top: 210vh;
+}}
+@media all and (min-width: 400px) and (max-width: 450px) {
+.containerparcours {
+  margin-top: 210vh;
+}}
+@media all and (min-width: 350px) and (max-width: 400px) {
+.containerparcours {
+  margin-top: 220vh;
+}}
+@media all and (min-width: 300px) and (max-width: 350px) {
+.containerparcours {
+  margin-top: 220vh;
+}}
+@media all and (min-width: 250px) and (max-width: 300px) {
+.containerparcours {
+  margin-top: 200vh;
+}}
+@media all and (min-width: 200px) and (max-width: 250px) {
+.containerparcours {
+  margin-top: 200vh;
+}}
+@media all and (min-width: 150px) and (max-width: 200px) {
+.containerparcours {
+  margin-top: 200vh;
+}}
+@media all and (min-width: 100px) and (max-width: 150px) {
+.containerparcours {
+  margin-top: 200vh;
+}}
+@media all and (min-width: 50px) and (max-width: 100px) {
+.containerparcours {
+  margin-top: 200vh;
+}}
+@media all and (min-width: 0px) and (max-width: 50px) {
+  .containerparcours {
+    margin-top: 200vh;
+  }}
