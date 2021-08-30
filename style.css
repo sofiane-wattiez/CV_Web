@@ -18,7 +18,10 @@
   font-family: "TrainOne-Regular";
   src: url("./asset/font/TrainOne-Regular.ttf") format("ttf");
 }
-
+@font-face {
+ font-family: "Impact";
+ src: url("./asset/font/fontsimpact_[fr.allfont.net].ttf") format("ttf"),     
+}
 html,
 body {
   padding: 0;
@@ -99,6 +102,7 @@ p:hover {
 a:link{
   text-decoration: none;
   color: blue;
+	font-size:1.5rem;
 
 }
 li {
@@ -156,7 +160,7 @@ h1 {
   color: #fff;
   transform-origin: center;
   animation: titreheader 10s linear infinite;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: "Impact", Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 
 .dhead {

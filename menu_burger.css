@@ -115,7 +115,7 @@
    margin: -100px 0 0 -50px;
    padding: 50px;
    /* padding-top: 125px; */
-   height: 103vh;
+   height: 103%;
    background: #ededed;
    list-style-type: none;
    -webkit-font-smoothing: antialiased;
@@ -129,8 +129,8 @@
  
  #menu li
  {
-  /* margin: 5%; */
-   font-size: 1.2rem;
+
+   font-size: 1.5rem;
    display: flex;
    flex-direction: column;
  }
